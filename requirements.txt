@@ -1,0 +1,17 @@
+# WebSocket and async support
+websockets==12.0
+aiohttp==3.9.5
+
+# Data processing and modeling
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# UI library (choose one)
+PyQt5==5.15.10  
+
+loguru==0.7.2
+
+matplotlib==3.8.4
+
+async-lru==2.0.4
